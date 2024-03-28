@@ -5,9 +5,9 @@ This Python project allows you to convert text to speech and save it as an audio
 
 # Features:
 
-Converts text to speech using the gTTS library.
-Saves the generated audio as an MP3 file.
-Simple and easy-to-use command-line interface (CLI).
+> Converts text to speech using the gTTS library.
+> Saves the generated audio as an MP3 file.
+> Simple and easy-to-use command-line interface (CLI).
 
 # Installation:
 
